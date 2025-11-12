@@ -1,0 +1,33 @@
+When discussing these in interviews, emphasize methodology, reproducibility, and ethical safeguards.
+
+5) Interview prep — sample questions & how to answer them
+
+Practice concise answers + short demonstrations.
+
+Examples:
+
+“Walk me through a time you found a model vulnerability.” — Describe goal, setup, the exact input, model settings, reasoning why it’s a vulnerability, reproduction, and mitigation.
+
+“How do you design a taxonomy for model failures?” — Show categories, labeling rules, inter-annotator agreement approach.
+
+“How would you test a customer’s dialogue assistant for misinformation?” — Provide a checklist: seed prompts, adversarial prompts, persona manipulation, context injection, escalation paths, monitoring signals.
+
+“How do you prioritize findings?” — Severity × exploitability × impact × reproducibility.
+
+Live test task: they may give you a small model to probe. Be ready to run quick, structured tests and narrate findings.
+
+Prepare 2-minute demos of:
+
+One attack case reproduction.
+
+How you classify and quantify severity for a set of failures.
+
+6) Safety & ethics (how to do this responsibly)
+
+Always use consent and legal/sandboxed environments.
+
+Keep sensitive content out of public repos — anonymize or use synthetic examples.
+
+Follow responsible disclosure for any real vulnerabilities.
+
+Use wellness practices (breaks, rotate tasks) when reviewing sensitive material; the job posting said participation in high-sensitivity projects is optional — leverage that.
