@@ -22,14 +22,3 @@ I haven't decided the LLM just yet, I will be working on that as well.
 3. Week 7–10: Reporting & tooling: Build reproducible scripts/notebook. Produce 2 polished reports and the annotated dataset.
 4. Week 11–12: Polish & interview prep: Finalize portfolio, craft 1-page playbook, rehearse demo and STAR interview answers.
 **(Extend to 6 months as needed — add specialization like socio-technical probing, adversarial ML research, or cybersecurity tooling.)**
-
-8) How to present yourself on your CV / LinkedIn
-
-Highlight relevant outcomes, not just tasks. E.g.:
-
-“Designed and executed 50+ reproducible adversarial tests against open-source LLMs; discovered 12 distinct failure modes and delivered remediation playbooks.”
-
-“Built an annotation taxonomy and dataset (JSONL) used to prioritize mitigations across hallucination and instruction-following failures.”
-
-Include technologies: Python, Git, Docker, dataset formats, plus “adversarial testing / red teaming / threat modeling.”
-
