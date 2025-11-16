@@ -1,0 +1,8 @@
+# Setting up an LLM locally
+
+I am currently trying to set up **LLAMA** locally on my machine. It will be an open-source LLM; among other ones, I have found this one to be appropriate for this project.
+This isn't very easy. I am trying to follow the steps.
+Once it is done, I will update the instructions on how to do this on Windows 11.
+Stay tuned!
+
+Update: Finally, I was able to install the llama LLM on my local machine, after a number of retries, failures, and debugging. Here is the list of steps for installation on a Windows 11 machine:
