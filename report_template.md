@@ -246,8 +246,3 @@ Include payload examples, redacted.
 | Priv Esc       | Exploit   | T1068        | Kernel vulns             |
 | … add more …   |           |              |                          |
 
----
-
-# ✔️ Want this as a **Word**, **PDF**, **Markdown**, or **Google Docs** file?
-
-Tell me the format and I’ll generate a downloadable version for you.
