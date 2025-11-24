@@ -57,9 +57,6 @@ I can give you direct links if you want.
 3. Run llama-server
 .\llama-server -m yourmodel.gguf --port 8080
 
-
-
-
 Then use:
 
 http://localhost:8080/v1/chat/completions
